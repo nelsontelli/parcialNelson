@@ -37,7 +37,7 @@ export const Form = ({ onSubmit, titulo }) => {
                 name="libro"
                 value={libro}
                 onChange={handelerChangeLibro}
-                placeholder="Ingresar Nombre de Libro"
+                placeholder="Ingresar Nombre Libro"
             />
             <input
                 id="autor"
